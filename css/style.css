@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  color: #111111;
+  background-color: #f5f4f3;
+  padding: 1rem;
+  text-align: justify;
+  font: "cocogoose";
+}
+
+.name {
+  font: 80px "hanson";
+  text-align: center;
+  color: #2041af;
+  padding: 0px 0 00px 0;
+}
+
+.name2 {
+  font: 20px "cocogoose";
+  text-align: center;
+  text-transform: uppercase;
+  color: #1a1a1a;
+  padding: 0px;
+}
+
+.image-alignment {
+  display: flex;
+  justify-content: center;
+  width: fit-content;
+  flex-wrap: wrap;
+  margin: 25px auto;
+}
+
+.image {
+  position: relative;
+
+  cursor: pointer;
+  height: 270px;
+  width: 400px;
+  color: white;
+
+  background-color: white;
+  border-style: solid;
+  border-color: #2041af;
+  overflow: hidden;
+}
+
+.text {
+  text-align: left;
+  position: absolute;
+  bottom: 20px;
+  left: 38px;
+  opacity: 0;
+  font: 14px "hanson";
+}
+
+.image:hover .text {
+  transform: translateY(-20px);
+  opacity: 1;
+  transition: all 0.7s ease-out;
+  font-size: 25px;
+  color: rgb(white);
+  text-shadow: 0 0 5px #2041af;
+}
+
+.image:focus {
+  background-color: #fff;
+  color: #333;
+}
