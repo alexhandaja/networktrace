@@ -1,20 +1,58 @@
 Alexandria Handaja
-Seatgeek.com
-I frequently use it to find concert tickets at a more reasonable~ price. 
-"SeatGeek is the Web's largest event ticket search engine."
+detik.com
+While I never personally use it anymore, I know that my dad frequently uses it to check the news every day. 
+"Detik.com is an online news portal and publishes breaking news."
 
-traceroute to stubhub.com (cc), 64 hops max, 52 byte packets
-Massachusetts, Boston
-- Dunkin’ Donuts
 
- 1  cr1000a (192.168.1.1)  3.678 ms  2.893 ms  1.839 ms
+
+traceroute to detik.com (103.49.221.211), 64 hops max, 52 byte packets
+- RS AGUNG MENTENG
+
+ 1  cr1000a (192.168.1.1)  4.434 ms  1.825 ms  2.169 ms
+    -- Moreia fish 
  2  * * *
- 3  b3347.nycmny-lcr-21.verizon-gni.net (130.81.171.228)  11.589 ms
-    New York, New York City
-      - Brooklyn Bridge 
-    b3347.nycmny-lcr-22.verizon-gni.net (130.81.171.230)  8.034 ms  8.867 ms
-    New York, New York City
-      - Takahachi Bakery
+ 3  b3347.nycmny-lcr-21.verizon-gni.net (130.81.171.228)  8.172 ms
+    -- Brooklyn Bridge 
+    
+    b3347.nycmny-lcr-22.verizon-gni.net (130.81.171.230)  11.051 ms  9.993 ms
+    -- New York City Hall 
  4  * * *
- 5  * * *
- 6  a184-25-148-56.deploy.static.akamaitechnologies.com (184.25.148.56)  11.379 ms  10.570 ms  11.463 ms
+ 5  0.ae3.br2.nyc4.alter.net (140.222.1.59)  9.883 ms  5.966 ms  6.133 ms
+    -- Vulnerable native flower: Showy ladyslipper
+    
+ 6  verizon-com.customer.alter.net (152.179.72.42)  7.620 ms  6.429 ms  6.325 ms
+    -- Brooklyn Museum 
+    
+ 7  * * *
+ 8  * * *
+ 
+ 9  ae-0.r25.sttlwa01.us.bb.gin.ntt.net (129.250.3.83)  70.194 ms  71.963 ms  76.152 ms
+    -- Space Needle 
+    
+10  ae-6.r26.osakjp02.jp.bb.gin.ntt.net (129.250.3.61)  173.166 ms  175.714 ms  162.088 ms
+    -- Osaka Castle
+    
+11  ae-0.r27.osakjp02.jp.bb.gin.ntt.net (129.250.3.45)  168.931 ms  170.030 ms *
+    -- Osaka Tennōji Zoo & Park
+
+12  ae-9.r22.sngpsi07.sg.bb.gin.ntt.net (129.250.2.66)  239.616 ms * *
+    -- Singapore Orchid (Papilionanthe Miss Joaquim)
+    
+13  * * *
+
+14  ae-1.r00.sngpsi07.sg.bb.gin.ntt.net (129.250.4.134)  244.237 ms  291.940 ms  305.940 ms
+    -- Sentosa
+    
+15  ae-0.pt-cyberindo-aditama.sngpsi07.sg.bb.gin.ntt.net (168.143.191.223)  260.846 ms  227.368 ms  286.986 ms
+    -- Marina Bay Sands
+
+16  121.100.5.14 (121.100.5.14)  255.104 ms  262.035 ms  328.590 ms
+    -- Padma Raksasa Rafflesia
+    
+17  121.100.4.70 (121.100.4.70)  306.078 ms  327.801 ms  255.388 ms
+    -- Monas 
+    
+18  s211-cast-211-221-49-103.detik.com (103.49.221.211)  249.799 ms  243.980 ms  247.161 ms
+    -- Ancol
+
+
